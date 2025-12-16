@@ -1,0 +1,144 @@
+
+#game-board-div{
+    display: flex;
+    justify-content: center;
+    width: 1020px;
+    height: 820px;
+    background-color: black;
+    flex-direction: row;
+    border: 10px solid black;
+    margin-right: 50px;
+}
+ #game-question-board-div{
+    display: flex;
+    justify-content: center;
+    width: 1020px;
+    height: 820px;
+    background-color: blue; 
+    border: 10px solid black;
+    margin-right: 50px;
+    text-align: center;
+}
+main {
+display: flex;
+flex-direction: row;
+}
+.quiz-column {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    color:white;
+}
+
+.quiz-column-header h2{
+     
+    margin: 0;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    line-height: 1.1;
+    padding: 0;
+    box-sizing: border-box;
+}
+.quiz-column-header {
+    margin:0;
+    height: 12.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    border:10px solid black;
+    text-align: center;
+}
+
+.quiz-questions {
+    height: 17.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    border:10px solid black;
+    color: whitesmoke;
+}
+.question-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 820px;
+    width: 100%;
+    background-color: darkblue;
+    border:10px solid black;
+    flex-direction: column;
+    text-align: center;
+}
+.question-text{
+    margin: 0;
+    text-align: center;
+
+}
+
+.question-options{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    margin: 50px;
+
+}
+#correct-answer-btn{
+    width:20%;
+    background-color: green;
+    color: darkgreen;
+    border: 3px solid darkgreen;
+    font-weight: bold;
+        margin-left: 10px;
+    margin-right: 10px;
+}
+#wrong-answer-btn{
+    width:20%;
+    background-color: red;
+    color: darkred;
+    border: 3px solid darkred;
+    font-weight: bold;
+        margin-left: 10px;
+    margin-right: 10px;
+}
+
+.question-text-div{
+    height:90%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+#skip-question-btn{
+    width:20%;
+    background-color: beige;
+    color: darkkhaki;
+    border: 3px solid beige;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+
+/*
+.quiz-questions-container{
+    display: flex;
+    height: 85%;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}*/

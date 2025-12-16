@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy!</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+    <header>
+        <h1>Jeopardy!</h1>
+        <h3 id ="current-turn-text"> Current Turn: </h3>
+    </header>
+    <main>
+        <div id="game-question-board-div" class="question-card" hidden>
+            <div class="question-options">
+                <button id="skip-question-btn">Skip</button>
+                <button id="wrong-answer-btn">Wrong</button>
+                <button id="correct-answer-btn">Correct</button>
+            </div>
+            <div class="question-text-div">
+                <h1 id="question-text">High fellow americans today is the !</h1>
+            </div>
+        </div>
+        
+        <div id="game-board-div" hidden></div>
+        <h2>Scoreboard</h2>
+        <div id="scores">
+            <!-- Player scores will be displayed here -->
+        </div>
+
+    </main>
+    <footer>
+        <p>&copy; 2024 Jeopardy! Inc.</p>
+    </footer>
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

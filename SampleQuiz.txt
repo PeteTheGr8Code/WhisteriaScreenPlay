@@ -1,0 +1,175 @@
+  {
+    "id": 91,
+    "category": "Brianna",
+    "subcategory": "Backstory",
+    "difficulty": "Super-Easy",
+    "question": "On which prison did Brianna grow up?"
+  },
+  {
+    "id": 91,
+    "category": "Brianna",
+    "subcategory": "Backstory",
+    "difficulty": "Easy",
+    "question": "What is the name of Brianna’s mother?"
+      },
+  {
+    "id": 91,
+    "category": "Brianna",
+    "subcategory": "Backstory",
+    "difficulty": "Medium",
+    "question": "What is the name of Brianna’s older sister?"
+  },
+  {
+    "id": 91,
+    "category": "Brianna",
+    "subcategory": "Backstory",
+    "difficulty": "Hard",
+    "question": "What was Brianna doing in that prison?"
+  },
+  {
+    "id": 91,
+    "category": "Brianna",
+    "subcategory": "Backstory",
+    "difficulty": "Super-Hard",
+    "question": "What is the name of Brianna’s father?"
+  },
+  {
+    "id": 92,
+    "category": "Brianna",
+    "subcategory": "Abilities",
+    "difficulty": "Super-Easy",
+    "question": "What fighting style does Brianna use?"
+  },
+  {
+    "id": 92,
+    "category": "Brianna",
+    "subcategory": "Abilities",
+    "difficulty": "Easy",
+    "question": "What is the name of Brianna’s Devil Fruit?"
+  },
+  {
+    "id": 92,
+    "category": "Brianna",
+    "subcategory": "Abilities",
+    "difficulty": "Medium",
+    "question": "What weapon does Brianna use?"
+  },
+  {
+    "id": 92,
+    "category": "Brianna",
+    "subcategory": "Abilities",
+    "difficulty": "Hard",
+    "question": "How did Brianna develop such natural strength?"
+  },
+  {
+    "id": 92,
+    "category": "Brianna",
+    "subcategory": "Abilities",
+    "difficulty": "Super-Hard",
+    "question": "What advanced property of her Devil Fruit has Brianna begun to unlock?"
+  },
+  {
+    "id": 93,
+    "category": "Brianna",
+    "subcategory": "Goals & Ambitions",
+    "difficulty": "Super-Easy",
+    "question": "Why did Brianna join the Dark Pirates?"
+  },
+  {
+    "id": 93,
+    "category": "Brianna",
+    "subcategory": "Goals & Ambitions",
+    "difficulty": "Easy",
+    "question": "What incident motivated Brianna to get stronger?"
+  },
+  {
+    "id": 93,
+    "category": "Brianna",
+    "subcategory": "Goals & Ambitions",
+    "difficulty": "Medium",
+    "question": "Who does Brianna want to protect?"
+  },
+  {
+    "id": 93,
+    "category": "Brianna",
+    "subcategory": "Goals & Ambitions",
+    "difficulty": "Hard",
+    "question": "Who does Brianna want to kill now after Pacem Island?"
+  },
+  {
+    "id": 93,
+    "category": "Brianna",
+    "subcategory": "Goals & Ambitions",
+    "difficulty": "Super-Hard",
+    "question": "What is Brianna’s relationship with the Pacem barkeep?"
+  },
+  {
+    "id": 94,
+    "category": "Brianna",
+    "subcategory": "Enemies",
+    "difficulty": "Super-Easy",
+    "question": "Who did Brianna fight with to free Hedrick?"
+  },
+  {
+    "id": 94,
+    "category": "Brianna",
+    "subcategory": "Enemies",
+    "difficulty": "Easy",
+    "question": "Which faction is now Brianna’s key enemy?"
+  },
+  {
+    "id": 94,
+    "category": "Brianna",
+    "subcategory": "Enemies",
+    "difficulty": "Medium",
+    "question": "Which creature did Brianna fight in the bathrooms of Baterilla Royal Castle?"
+  },
+  {
+    "id": 94,
+    "category": "Brianna",
+    "subcategory": "Enemies",
+    "difficulty": "Hard",
+    "question": "Which group does Brianna fight for the first time as a member of the Dark Pirates?"
+  },
+  {
+    "id": 94,
+    "category": "Brianna",
+    "subcategory": "Enemies",
+    "difficulty": "Super-Hard",
+    "question": "Who was on Vongoria from the Aka Family?"
+  },
+  {
+    "id": 95,
+    "category": "Brianna",
+    "subcategory": "Lore",
+    "difficulty": "Super-Easy",
+    "question": "Where did the Dark Pirates first find Brianna?"
+  },
+  {
+    "id": 95,
+    "category": "Brianna",
+    "subcategory": "Lore",
+    "difficulty": "Easy",
+    "question": "Who did Brianna fight in Pacem Island’s cavern?"
+  },
+  {
+    "id": 95,
+    "category": "Brianna",
+    "subcategory": "Lore",
+    "difficulty": "Medium",
+    "question": "During which kingdom’s conflict did Brianna earn a significant bounty increase due to her combat performance?"
+  },
+  {
+    "id": 95,
+    "category": "Brianna",
+    "subcategory": "Lore",
+    "difficulty": "Hard",
+    "question": "From which tribe did Brianna acquire her Devil Fruit?"
+  },
+  {
+    "id": 95,
+    "category": "Brianna",
+    "subcategory": "Lore",
+    "difficulty": "Super-Hard",
+    "question": "Where did Brianna hear about Dawn again for the first time?"
+  }
