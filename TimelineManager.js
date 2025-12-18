@@ -40,7 +40,9 @@ export default class TimelineManager {
                 
         }
         //verify timelines
-        console.log(this.arrayOfTimelines);   
+        console.log(this.arrayOfTimelines);
+        this.arrayOfTimelines.sort((a,b)=>a.id-b.id);
+        return(this.arrayOfTimelines.length);   
     }
 
     shuffleArray(array) {
@@ -78,6 +80,11 @@ export default class TimelineManager {
         //periodic array access
         this.currentIndex=(this.currentIndex-1+this.arrayOfTimelines.length)%this.arrayOfTimelines.length;
         return this.getCurrentTimeline();
+    }
+
+    getTimeline(index){
+        this.currentIndex=(index+this.arrayOfTimelines.length)%this.arrayOfTimelines.length;
+        return this.arrayOfTimelines[this.currentIndex];
     }
 
 }
