@@ -7,7 +7,7 @@ export default class TimelineManager {
     constructor(QuestionList) {
         this.QuestionList = QuestionList;
         this.amountOfTimelines=QuestionList.length/5+1;
-        console.log(this.amountOfTimelines);
+        //console.log(this.amountOfTimelines);
     }
     buildTimelines() {
         //logic to build timelines from question list
@@ -36,6 +36,7 @@ export default class TimelineManager {
                     const timeline = new Timeline(timelineID, questions);
                     this.arrayOfTimelines.push(timeline);
                 }
+
             }
                 
         }

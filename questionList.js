@@ -3152,350 +3152,350 @@ export var QuestionList = [
     {
     "id": 211,
     "category": "BloodVat Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Super Easy",
     "question": "Which incredible event in the world of Piracy occured On BloodVat Island"
   },
   {
     "id": 212,
     "category": "BloodVat Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Easy",
     "question": "where are all the adults of RivTown?"
   },
   {
     "id": 213,
     "category": "BloodVat Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Medium",
     "question": "What weapon was used on the inhabitants of RivTown?"
   },
   {
     "id": 214,
     "category": "BloodVat Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Hard",
     "question": "which pirate ranks the highest in terms of Bounty in the South Blue?"
   },
   {
     "id": 215,
     "category": "BloodVat Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Super Hard",
     "question": "Who was Notley's favorite drinking buddy."
   },
   {
     "id": 216,
     "category": "BloodVat Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Super Easy",
     "question": "What is left of RivTown?"
   },
   {
     "id": 217,
     "category": "BloodVat Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Easy",
     "question": "Where did the crew Arrive on BloodVat Island?"
   },
   {
     "id": 218,
     "category": "BloodVat Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Medium",
     "question": "What is Klicker's home Town?"
   },
   {
     "id": 219,
     "category": "BloodVat Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Hard",
     "question": "Where is the Bar located on BloodVat Island?"
   },
   {
     "id": 220,
     "category": "BloodVat Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Super Hard",
     "question": "Where did Tradley Die?"
   },
   {
     "id": 221,
     "category": "BloodVat Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Super Easy",
     "question": "which Family is prevalent in BloodVat Island?"
   },
   {
     "id": 222,
     "category": "BloodVat Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Easy",
     "question": "True or false: Dirtown is a vibrant city?"
   },
   {
     "id": 223,
     "category": "BloodVat Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Medium",
     "question": "What is the governing body on BloodVat Island?"
   },
   {
     "id": 224,
     "category": "BloodVat Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Hard",
     "question": "Which Island visited by the Dark Pirates is run by pirates?"
   },
   {
     "id": 225,
     "category": "BloodVat Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Super Hard",
     "question": "The inhabitants of BloodVat Island seem okay with rowdyness. Why?"
   },
   {
     "id": 226,
     "category": "BloodVat Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Super Easy",
     "question": "Who Accused the party of being a brother killing one on BloodVat?"
   },
   {
     "id": 227,
     "category": "BloodVat Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Easy",
     "question": "who did they meet in Rivtown?"
   },
   {
     "id": 228,
     "category": "BloodVat Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Medium",
     "question": "What enemies did they face in the Oasis"
   },
   {
     "id": 229,
     "category": "BloodVat Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Hard",
     "question": "Who is Tradley"
   },
   {
     "id": 230,
     "category": "BloodVat Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Super Hard",
     "question": "Who is Ozora"
   },
   {
     "id": 231,
     "category": "BloodVat Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Super Easy",
     "question": "Why did the alliance fail in BloodVat?"
   },
   {
     "id": 232,
     "category": "BloodVat Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Easy",
     "question": "What was revealed to the crew about BloodVat?"
   },
   {
     "id": 233,
     "category": "BloodVat Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Medium",
     "question": "Who was in support of the Dark Pirates in the bar of Dirtown besides Vapor?"
   },
   {
     "id": 234,
     "category": "BloodVat Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Hard",
     "question": "Why did Snitch Agree to the meeting?"
   },
   {
     "id": 235,
     "category": "BloodVat Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Super Hard",
     "question": "What alliance made it impossible for the Flock to support The Dark Pirates in BloodVat?"
   },
     {
     "id": 236,
     "category": "Pacem Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Super Easy",
     "question": "Why did the Dark Pirates go to Pacem Island?"
   },
   {
     "id": 237,
     "category": "Pacem Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Easy",
     "question": "Which Dark Pirate was revealed to come from Pacem Island?"
   },
   {
     "id": 238,
     "category": "Pacem Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Medium",
     "question": "Why was the poison drunk on Pacem Island?"
   },
   {
     "id": 239,
     "category": "Pacem Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Hard",
     "question": "Why is there a lot of Navy presence on Pacem Island?"
   },
   {
     "id": 240,
     "category": "Pacem Island",
-    "subCategory": "Lore",
+    "subcategory": "Lore",
     "difficulty": "Super Hard",
     "question": "Whose funeral was taking place on Pacem Island?"
   },
   {
     "id": 241,
     "category": "Pacem Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Super Easy",
     "question": "Around what are the different settlements centered on Pacem Island?"
   },
   {
     "id": 242,
     "category": "Pacem Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Easy",
     "question": "Where did Carnisage make his lair on Pacem Island?"
   },
   {
     "id": 243,
     "category": "Pacem Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Medium",
     "question": "What is located near Pacem Island?"
   },
   {
     "id": 244,
     "category": "Pacem Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Hard",
     "question": "Where did the crew visit Mary Curry?"
   },
   {
     "id": 245,
     "category": "Pacem Island",
-    "subCategory": "Landmarks & Locations of Interest",
+    "subcategory": "Landmarks & Locations of Interest",
     "difficulty": "Super Hard",
     "question": "Where did they find Dusk?"
   },
   {
     "id": 246,
     "category": "Pacem Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Super Easy",
     "question": "Why is there a Navy outpost near Pacem Island?"
   },
   {
     "id": 247,
     "category": "Pacem Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Easy",
     "question": "How are the townsfolk on Pacem Island?"
   },
   {
     "id": 248,
     "category": "Pacem Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Medium",
     "question": "How are the young folk on Pacem Island?"
   },
   {
     "id": 249,
     "category": "Pacem Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Hard",
     "question": "True or false: Pacem Island was always peaceful."
   },
   {
     "id": 250,
     "category": "Pacem Island",
-    "subCategory": "Political / Social Structure",
+    "subcategory": "Political / Social Structure",
     "difficulty": "Super Hard",
     "question": "Who protects Pacem Island?"
   },
   {
     "id": 251,
     "category": "Pacem Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Super Easy",
     "question": "Matt Mur, Foggy—who was the fourth DareDevil?"
   },
   {
     "id": 252,
     "category": "Pacem Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Easy",
     "question": "Who sent them to kill Rampage?"
   },
   {
     "id": 253,
     "category": "Pacem Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Medium",
     "question": "Who did the crew meet after Carnisage's demise on Pacem Island?"
   },
   {
     "id": 254,
     "category": "Pacem Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Hard",
     "question": "Who did the crew face at Mary Curry's house?"
   },
   {
     "id": 255,
     "category": "Pacem Island",
-    "subCategory": "Party Encounters",
+    "subcategory": "Party Encounters",
     "difficulty": "Super Hard",
     "question": "Who is Borus?"
   },
   {
     "id": 256,
     "category": "Pacem Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Super Easy",
     "question": "What happens to a Marked One when they die?"
   },
   {
     "id": 257,
     "category": "Pacem Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Easy",
     "question": "Name two people who are aware of the Five Claws."
   },
   {
     "id": 258,
     "category": "Pacem Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Medium",
     "question": "Who was the man with a trench coat on Pacem Island?"
   },
   {
     "id": 259,
     "category": "Pacem Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Hard",
     "question": "Why was Sardo doing the Fuji Family's bidding?"
   },
   {
     "id": 260,
     "category": "Pacem Island",
-    "subCategory": "Secrets / Hidden History",
+    "subcategory": "Secrets / Hidden History",
     "difficulty": "Super Hard",
     "question": "What shocking reveal occurred after they killed Rampage?"
   }
