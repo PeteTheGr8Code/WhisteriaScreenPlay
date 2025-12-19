@@ -1,4 +1,4 @@
-import { QuestionList } from './questionList.js';
+import { QuestionList } from './newquestionList.js';
 import TimelineManager from './TimelineManager.js';
 import GameStateManager from './GameStateManager.js';
 
